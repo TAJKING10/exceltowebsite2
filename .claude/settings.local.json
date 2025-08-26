@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(echo $env:USERPROFILE)",
+      "Read(/C:\\c\\Users/**)"
+    ],
+    "deny": [],
+    "ask": [],
+    "additionalDirectories": [
+      "C:\\Users\\Toufi"
+    ]
+  }
+}
